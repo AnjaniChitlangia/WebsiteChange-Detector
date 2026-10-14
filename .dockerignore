@@ -1,0 +1,11 @@
+node_modules
+**/node_modules
+**/dist
+apps/server/storage
+apps/server/.env
+.env
+npm-cache
+parts
+deps.tgz
+*.log
+.git

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+apps/server/.env
+apps/server/storage/
+*.log
+.DS_Store
+npm-cache/
+coverage/
+dump.rdb
